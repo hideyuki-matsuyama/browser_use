@@ -1,0 +1,4 @@
+output.txt
+.env
+.mypy_cache
+venv
